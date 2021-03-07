@@ -1,0 +1,26 @@
+.app-homepage {
+    margin: 0 auto;
+}
+
+#home-drone-video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+#front-slogan-wrapper {
+    left: 50%;
+    transform: translateX(-50%);
+    position: absolute;
+    top: 35%;
+    width: 100%;
+    padding: 0 30px;
+    transition: opacity 8s;
+}
+
+#front-slogan-text{
+    font-size: 30px;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+}

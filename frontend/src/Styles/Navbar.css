@@ -1,0 +1,33 @@
+.home-nav-bar {
+    height: 100px;
+    margin: 0 auto;
+}
+
+.home-menu{
+    text-align: center;
+    padding-inline-start: 0;
+    vertical-align: top;
+    white-space:nowrap;
+    overflow:hidden;
+}
+
+.menu-item {
+    display: inline-block ;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 40px;
+    padding-bottom: 5px;
+}
+
+.menu-item a {
+    text-transform: uppercase;
+    color: #333;
+}
+
+.menu-item a:hover{
+    line-height: 1;
+    text-decoration: underline;
+}
+
+

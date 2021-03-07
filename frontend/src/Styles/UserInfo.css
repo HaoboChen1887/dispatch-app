@@ -1,0 +1,17 @@
+.spinBox {
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.userInfoTop {
+    width: 700px;
+    height: 330px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.userInfomation {
+    font-size: 25px;
+    font-weight: bold;
+}

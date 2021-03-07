@@ -1,0 +1,17 @@
+@import '~antd/dist/antd.css';
+@import "./Styles/App.css";
+@import "./Styles/Footer.css";
+@import "./Styles/Header.css";
+@import "./Styles/Home.css";
+@import "./Styles/Navbar.css";
+@import "./Styles/About.css";
+@import "./Styles/Blog.css";
+@import "./Styles/Login.css";
+@import "./Styles/Register.css";
+@import "./Styles/OrderOption.css";
+@import "./Styles/OrderInfo.css";
+@import "./Styles/UserInfo.css";
+@import "./Styles/OrderHistory.css";
+@import "./Styles/TrackOrder.css";
+@import "./Styles/AddOrder.css";
+@import "./Styles/OrderConfirm.css";

@@ -1,0 +1,36 @@
+.option-radio {
+    margin-top: 100px;
+    float: right;
+    width: 180px;
+    height: 200px;
+    padding: 25px;
+    margin-right: 10px;
+    border:2px solid;
+    border-radius:25px;
+    border-color: gainsboro;
+}
+
+.confirm-button {
+    font-size: large;
+    margin-bottom: 5px;
+    margin-top: 15px;
+    color: white;
+    background-color: deepskyblue;
+    font-weight: bold;
+    text-align: center;
+    border-radius:5px;
+}
+
+.drone-robot-option {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: large;
+}
+
+.map {
+    float: left;
+    width: 600px;
+    border:2px solid;
+    border-color: gainsboro;
+    border-radius:5px;
+}

@@ -1,0 +1,47 @@
+.user-sign-wrapper {
+    z-index: 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 120px;
+}
+
+.login-box {
+    width: 330px;
+    height: 330px;
+    margin: 10px auto;
+    padding-top: 30px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, .1);
+}
+
+.form-group {
+    padding: 0 20px;
+    margin: 10px auto;
+}
+
+.form-control {
+    display: block;
+    width: 200px;
+    height: 35px;
+    line-height: 50px;
+    padding: 0 10px;
+    color: #777;
+    border-color: grey;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.user-sign-heading {
+    text-align: center;
+    font-size: 15px;
+}
+
+.user-sign-bottom {
+    text-align: center;
+}
+
+.user-sign-submit-btn{
+    margin-top: 15px;
+    margin-bottom: 10px;
+}

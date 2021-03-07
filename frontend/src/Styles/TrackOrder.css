@@ -1,0 +1,30 @@
+.spinBox {
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.trackBox {
+    width: 400px;
+    height: 1500px;
+    margin: 0 auto;
+}
+
+.trackOrders {
+    margin: 0 auto;
+    font-size: 15px;
+}
+
+.trackOrder p {
+    margin-bottom: 2px;
+}
+
+.deliveryTime {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.transitText {
+    font-size: 25px;
+    font-weight: bold;
+}

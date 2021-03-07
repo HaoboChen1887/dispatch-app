@@ -1,0 +1,43 @@
+.app-header {
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+
+.app-title {
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    padding: 50px 20px 10px 20px;
+    position: relative;
+    color: #222;
+    cursor: pointer;
+}
+
+.home-user-link{
+    text-decoration: none;
+    color: inherit;
+}
+
+.home-nav-login {
+    height: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    position: absolute;
+    right: 0;
+}
+
+.home-nav-login-item {
+    float: right;
+    line-height: 30px;
+    padding: 0 10px;
+    font-size: 17px;
+    margin-top: 65px;
+    margin-right: 10px;
+    border-radius: 19px;
+    border: 1px solid dimgrey;
+    color: #333;
+    cursor: pointer;
+}
+

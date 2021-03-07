@@ -1,0 +1,19 @@
+.spinBox {
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.historyBox {
+    width: 350px;
+    height: 3000px;
+    margin: 0 auto;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.historyOrders {
+    margin: 0 auto;
+    font-size: 15px;
+    font-weight: bold;
+}
